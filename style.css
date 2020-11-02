@@ -1,0 +1,36 @@
+.rahi {
+    width: auto;
+    height: 700px;
+     
+     background-size: cover;
+     
+     background-size: cover;
+}
+.Anupriya {
+    padding: 15px;
+        max-width: 100%;
+        height: auto;
+        float:right;
+      
+        
+}
+a{
+    color: black;
+}
+.change {
+    width: 40%;
+    float: left;
+    padding: 100px;
+    
+}
+.butprep{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom:80px ;
+}
+@media screen and (max-width: 1200px) {
+    div.change {
+     width: auto;
+     
+    }
+  }
